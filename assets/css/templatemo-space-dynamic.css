@@ -1176,10 +1176,6 @@ Portfolio
   visibility: visible;
 }
 
-.our-portfolio .item:hover .showed-content {
-  top: 90px;
-}
-
 .our-portfolio .hidden-content {
   background: rgb(255,77,30);
   background: linear-gradient(105deg, rgba(255,77,30,1) 0%, rgba(255,44,109,1) 100%);
