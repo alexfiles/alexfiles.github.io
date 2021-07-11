@@ -1,12 +1,21 @@
-"short_name": "AxFile"
-"name": "Alex Files",
-"icons": [
-  {
-    "src": "/images/72.png",
-    "type": "image/png",
-    "sizes": "144x144"
-   }
+{
+  "name": "Alex Files | Database",
+  "short_name": "AlexFiles",
+  "start_url": "index.html",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "images/72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "images/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ],
-  "start_url": "index/.html",
-  "display": "standalone",
+  "theme_color": "#ffd31d",
+  "background_color": "#333",
+  "display": "standalone"
 }
