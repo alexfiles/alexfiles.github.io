@@ -1,1 +1,12 @@
-**
+"short_name": "AxFile"
+"name": "Alex Files",
+"icons": [
+  {
+    "src": "/images/72.png",
+    "type": "image/png",
+    "sizes": "144x144"
+   }
+  ],
+  "start_url": "index/.html",
+  "display": "standalone",
+}
